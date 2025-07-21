@@ -9,7 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // NEW: Gamified Color Palette
+        // NEW: Updated Color Palette from Design
+        'emerald-green': '#00674F',
+        'lavender-light': '#E0E0F8',
+        'lavender-medium': '#A78BFA',
+        'lavender-dark': '#6A5ACD',
+        // Existing gamified colors (keeping for compatibility)
         electric: '#7B61FF',
         coral: '#FF6B6B',
         sunshine: '#FFD166',
